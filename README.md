@@ -9,11 +9,11 @@
 
 * 🤓 UI/UX Designer
 
-* 😌 Founder of @TheCodeMonks Open Source Organisation
+* 😌 Founder of [@TheCodeMonks](https://github.com/TheCodeMonks) Open Source Organisation
 
 * 🐶 Creator of Blue Cross Of India App
 
-* 📸 Tech Youtuber - @InsaneDeveloper
+* 📸 Tech Youtuber 
 
 * 📝 Open Source Contributor
 
