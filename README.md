@@ -6,22 +6,13 @@
 ## About Me 🤷🏻‍♂️
 
 * 📱 Android Developer
-
 * 🤓 UI/UX Designer
-
 * 😌 Founder of [@TheCodeMonks](https://github.com/TheCodeMonks) Open Source Organisation
-
 * 🐶 Creator of Blue Cross Of India App
-
 * 📸 Tech Youtuber 
-
 * 📝 Open Source Contributor
-
 * 🚀 Love towards Rocket Science Never ends
-
 ## 
-
-
 ## Reach me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjay-s-43258a12a/)
@@ -32,3 +23,4 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/sanjay_spikey)
 
 
+## Projects made with ❤️ 👇
