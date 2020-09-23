@@ -12,7 +12,9 @@
 * 📸 Tech Youtuber 
 * 📝 Open Source Contributor
 * 🚀 Love towards Rocket Science Never ends
-## 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=spikeysanju&count_private=true&show_icons=true&include_all_commits=true)
+
 ## Reach me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjay-s-43258a12a/)
