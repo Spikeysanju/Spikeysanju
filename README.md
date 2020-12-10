@@ -5,15 +5,17 @@
 
 ## About Me 🤷🏻‍♂️
 
-* 📱 Android Developer
-* 🤓 UI/UX Designer
+* 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
 * 😌 Founder of [@TheCodeMonks](https://github.com/TheCodeMonks) Open Source Organisation
 * 🐶 Creator of Blue Cross Of India App
-* 📸 Tech Youtuber 
+* 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/channel/UC4sjtDCIHMTwWg5k1_eHiug)
 * 📝 Open Source Contributor
 * 🚀 Love towards Rocket Science Never ends
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=spikeysanju&count_private=true&show_icons=true&include_all_commits=true)
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spikeysanju&count_private=true&show_icons=true&include_all_commits=true" alt="Spikey Sanju | Stats" />
+</details>
 
 ## Reach me via 👇
 
