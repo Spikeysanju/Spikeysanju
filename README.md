@@ -22,6 +22,10 @@
 <!-- BLOG-POST-LIST:END -->
 </details>
 
+## Recent Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <details>
   <summary><b>📊 Github Stats</b></summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spikeysanju&count_private=true&show_icons=true&include_all_commits=true" alt="Spikey Sanju | Stats" />
