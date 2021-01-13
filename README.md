@@ -15,6 +15,10 @@
 <details>
   <summary><b>📒 Recent Blogs</b></summary>
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Jetpack Compose Layouts](https://dev.to/sanjay_spikey/jetpack-compose-layouts-5715)
+- [Solving Project Euler Problem Everyday - Day 01](https://dev.to/sanjay_spikey/solving-project-euler-problem-everyday-day-01-155k)
+- [Implementation of Caesar Cipher in C++](https://dev.to/sanjay_spikey/implementation-of-caesar-cipher-in-c-1opl)
+- [Basic of CPP](https://dev.to/sanjay_spikey/basic-of-cpp-4cgb)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
