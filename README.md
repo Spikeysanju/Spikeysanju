@@ -1,16 +1,15 @@
 ### Hi there, I'm Spikey👋
 
 
-# A Passionate Android Developer & UI/UX Designer 🚀 
+### A Passionate Android Engineer & UI/UX Designer 🚀 
+I am an Android engineer and designer passionate about software development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
 
-## About Me 🤷🏻‍♂️
-
-* 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
-* 😌 Founder of [@TheCodeMonks](https://github.com/TheCodeMonks) Open Source Organisation
-* 🐶 Creator of Blue Cross Of India App
-* 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/channel/UC4sjtDCIHMTwWg5k1_eHiug)
+* 📱 Working on Meaningful mobile apps 
+* 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/c/insanedeveloper)
+* 😌 Founder of [@TheCodeMonks](github.com/TheCodeMonks) Open Source Organisation
+* 💬 Ask me about ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
 * 📝 Open Source Contributor
-* 🚀 Love towards Rocket Science Never ends
+* 💌 Available for your next project
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
