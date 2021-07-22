@@ -18,13 +18,6 @@ I am an Android engineer and designer passionate about software development, use
 
 ## Reach me via 👇
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/spikeysanju/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sanjay_spikey)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC4sjtDCIHMTwWg5k1_eHiug)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/insane.dvlpr/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-pink.svg?style=for-the-badge&logo=dribbble)](https://dribbble.com/spikeysanju)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/sanjay_spikey)
-
 <p float="left">
 
 <a href="https://www.youtube.com/c/insanedeveloper" title="Redirect to YouTube">
@@ -48,7 +41,7 @@ I am an Android engineer and designer passionate about software development, use
   </a>
 
   <a href="https://dev.to/sanjay_spikey" title="Redirect to Dev.To">
-    <img src="/assets/dev.png" width="120" alt="Instagram" />
+    <img src="/assets/dev.png" width="120" alt="Dev.To" />
   </a>
 
 </p>
