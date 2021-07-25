@@ -32,7 +32,7 @@ I am an Android engineer and designer passionate about software development, use
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
   </a>
   
-  <a href="spikeysanju.dribbble.com" title="Redirect to Dribbble">
+  <a href="https://dribbble.com/spikeysanju" title="Redirect to Dribbble">
     <img src="/assets/dribbble.png" width="120" alt="Dribbble" />
   </a>
   
