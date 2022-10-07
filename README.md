@@ -24,7 +24,7 @@ I am an Android engineer and designer passionate about software development, use
     <img src="/assets/youtube.png" width="120" alt="YouTube" />
   </a>
   
-  <a href="https://twitter.com/sanjay_spikey" title="Redirect to Twitter">
+  <a href="https://twitter.com/spikeysanju" title="Redirect to Twitter">
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
   
