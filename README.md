@@ -36,7 +36,7 @@ I am an Android engineer and designer passionate about software development, use
     <img src="/assets/dribbble.png" width="120" alt="Dribbble" />
   </a>
   
-  <a href="https://www.instagram.com/insane.dvlpr/" title="Redirect to Instagram">
+  <a href="https://www.instagram.com/imspikeysanju/" title="Redirect to Instagram">
     <img src="/assets/instagram.png" width="120" alt="Instagram" />
   </a>
 
