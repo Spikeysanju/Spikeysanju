@@ -6,8 +6,8 @@ I am an Android engineer and designer passionate about software development, use
 
 * 📱 Working on Meaningful mobile apps 
 * 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/c/insanedeveloper)
-* 😌 Founder of [@TheCodeMonks](github.com/TheCodeMonks) Open Source Organisation
-* 💬 Ask me about ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
+* 😌 Founder of [@THISUXHQ] DESIGN STUDIO & [@TheCodeMonks](github.com/TheCodeMonks) Open Source Organisation
+* 💬 Ask me about ``Web (SvelteKit & NextJS)``, ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
 * 📝 Open Source Contributor
 * 💌 Available for your next project
 
