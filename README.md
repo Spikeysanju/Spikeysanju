@@ -1,8 +1,7 @@
 ### Hi there, I'm Spikey👋
 
 
-### A Passionate Android Engineer & UI/UX Designer 🚀 
-Hi i'm Spikey Sanju, Designer & Engineer, Founder of THISUX Design Studio , where ADHD meets Innovation!
+### Hi i'm Spikey Sanju, Designer & Engineer, Founder of THISUX Design Studio , where ADHD meets Innovation!
 
 * 🎨 Founder of [THISUX](https://www.thisux.com) Global Design Studio
 * 📱 Working on Meaningful mobile apps 
