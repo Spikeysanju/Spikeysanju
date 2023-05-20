@@ -2,13 +2,14 @@
 
 
 ### A Passionate Android Engineer & UI/UX Designer 🚀 
-I am an Android engineer and designer passionate about software development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
+Hi i'm Spikey Sanju, Designer & Engineer, Founder of THISUX Design Studio , where ADHD meets Innovation!
 
+* 🎨 Founder of [THISUX](https://www.thisux.com) Global Design Studio
 * 📱 Working on Meaningful mobile apps 
-* 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/c/insanedeveloper)
-* 😌 Founder of [@THISUXHQ](github.com/@THISUXHQ) DESIGN STUDIO & [@TheCodeMonks](github.com/TheCodeMonks) Open Source Organisation
-* 💬 Ask me about ``Web (SvelteKit & NextJS)``, ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
 * 📝 Open Source Contributor
+* 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/c/insanedeveloper)
+* 💬 Ask me about ``Web (SvelteKit & NextJS)``, ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
+* ❤️ Open Source Contributor
 * 💌 Available for your next project
 
 <details>
