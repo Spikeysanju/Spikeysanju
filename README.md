@@ -1,12 +1,12 @@
 ### Hi i'm Spikey Sanju, Designer & Engineer, Founder of THISUX Design Studio , where ADHD meets Innovation!
-
+<!-- 
 * 🎨 Founder of [THISUX](https://www.thisux.com) Global Design Studio
 * 📱 Working on Meaningful mobile apps 
 * 📝 Open Source Contributor
 * 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/c/insanedeveloper)
 * 💬 Ask me about ``Web (SvelteKit & NextJS)``, ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
 * ❤️ Open Source Contributor
-* 💌 Available for your next project
+* 💌 Available for your next project -->
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
