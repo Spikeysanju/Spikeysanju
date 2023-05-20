@@ -13,7 +13,7 @@
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spikeysanju&count_private=true&show_icons=true&include_all_commits=true" alt="Spikey Sanju | Stats" />
 </details>
 
-## Reach me via 👇
+## Reach me via
 
 <p float="left">
 
@@ -43,4 +43,4 @@
 
 </p>
 
-## Projects made with ❤️ 👇
+## Projects made with ❤️
