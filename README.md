@@ -31,7 +31,7 @@ Got an idea? [Let’s connect](mailto:work@sanju.sh?subject=Let's%20Collaborate&
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
   
-  <a href="https://www.linkedin.com/in/spikeysanju/" title="Redirect to LinkedIn">
+  <a href="https://www.linkedin.com/in/imsanju/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
   </a>
   
