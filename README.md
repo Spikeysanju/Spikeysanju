@@ -4,12 +4,14 @@ designer, founder, ai engineer.
 
 - 🤖 founding ai engineer at [AGI, Inc.](https://theagi.company)
 - 🎨 founder of [ThisUX](https://thisux.com), a design-led product studio
+- 📱 creator of [Dukoi](https://dukoi.com), turn an old phone into a server
 - 🤝 building [U/AI](https://unitedby.ai), where ai builders meet and ship
 
 ## building
 
 | project | what it does |
 | --- | --- |
+| [Dukoi](https://dukoi.com) | deploy real apps to an old android phone and get a live url |
 | [DroidClaw](https://droidclaw.ai) | turns old android phones into ai agents ([oss](https://github.com/unitedbyai/droidclaw)) |
 | [DunSocial](https://dunsocial.com) | ai social scheduler that writes in your voice, with an mcp server |
 | [ThisUX Voice](https://github.com/thisuxhq/voice) | typescript sdk for real-time voice agents |
